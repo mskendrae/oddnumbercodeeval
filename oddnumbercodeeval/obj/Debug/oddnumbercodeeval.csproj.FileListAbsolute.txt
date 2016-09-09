@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oddnumbercodeeval\oddnumbercodeeval\bin\Debug\oddnumbercodeeval.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oddnumbercodeeval\oddnumbercodeeval\bin\Debug\oddnumbercodeeval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oddnumbercodeeval\oddnumbercodeeval\bin\Debug\oddnumbercodeeval.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oddnumbercodeeval\oddnumbercodeeval\obj\Debug\oddnumbercodeeval.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oddnumbercodeeval\oddnumbercodeeval\obj\Debug\oddnumbercodeeval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\oddnumbercodeeval\oddnumbercodeeval\obj\Debug\oddnumbercodeeval.pdb
